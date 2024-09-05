@@ -56,3 +56,18 @@ https://github.com/GreenCodeStudio/GreenCodeFramework-Search.git
 ```powershell
 Add-ProjectModule Search https://github.com/GreenCodeStudio/GreenCodeFramework-Search.git
 ```
+
+### File
+https://github.com/GreenCodeStudio/GreenCodeFramework-File.git
+
+```powershell
+Add-ProjectModule File https://github.com/GreenCodeStudio/GreenCodeFramework-File.git
+```
+
+
+### KeyValueConfig
+https://github.com/GreenCodeStudio/GreenCodeFramework-KeyValueConfig.git
+
+```powershell
+Add-ProjectModule KeyValueConfig https://github.com/GreenCodeStudio/GreenCodeFramework-KeyValueConfig.git
+```
